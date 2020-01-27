@@ -1,2 +1,2 @@
-# Data-Analysis-in-Marketing
-Analyzing the pricing of Premium Economy tickets relative to regular Economy airline tickets by using Regression Models.
+# R-Statistical-Analysis
+- The purpose of this project is to analyze the pricing strategy of hotels in the Indian hotel industry. Many factors drive hotel room prices which are primarily of two types: external and internal. The objective of this project is to identify the factors that matter the most.
